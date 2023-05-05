@@ -1,12 +1,12 @@
 # bgpSearcher
-a BGP ASN and IPv4/IPv6 searcher for windows console
+a BGP ASN and IPv4/IPv6 searcher for windows prompt
 #
-This is a simple script made in batch for windows console. It's similar to WHOIS command but unlike WHOIS, this one provide information about BGP Autonomous-systems.\
+This is a simple script made in batch for windows prompt. It's similar to WHOIS command but unlike WHOIS, this one provide information about BGP Autonomous-systems.\
 \
 INSTALLATION: 
 1. download "bgps-installer.bat" file and bgps folder
 2. run "bgps-installer.bat" to copy bgps folder to C:\ and add it to system path in order to run the commands
-3. enjoy\
+3. that's it!
 
 \
 USAGE: \
